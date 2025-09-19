@@ -16,7 +16,7 @@ int main() {
         printf("Fine = ₹%d\n", f);
     }
     else if (d <= 30) {
-        f = (5 * 6) + (d - 10) * 6;
+        f = (5 * 2) + (5 * 4) + (d - 10) * 6;
         printf("Fine = ₹%d\n", f);
     }
     else {
